@@ -25,6 +25,6 @@ If you're looking to collaborate on a project, contribute to one of our reposito
 
 - 🌍 Visit us: [serviqa.com](https://serviqa.com)
 - 💬 Contact: [Email Us](mailto:info@serviqa.com)
-- 🔗 Connect with us on [LinkedIn](https://www.linkedin.com/company/serviqa-enterprise)
+- 🔗 Connect with us on [LinkedIn](https://www.linkedin.com/company/serviqa)
 
 Let’s build something amazing together!
